@@ -98,4 +98,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or further information, please contact [Your Name](mailto:your-email@example.com).
+For questions or further information, please contact [Chanchal Singh Parihar](mailto:chanchalsingh0720@gmail.com.
