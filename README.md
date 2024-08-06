@@ -86,11 +86,6 @@ Refer to the provided diagram for table relationships.
 15. **Average and Total Revenue by Sub-Category**  
     Find the average and total revenue by each sub-category for the top 5 categories in terms of quantity sold.
 
-## Instructions
-
-1. **Database Setup**: Use the provided SQL files to create the necessary database schema and insert data.
-2. **Run Queries**: Execute SQL queries to answer the business questions listed above.
-3. **Submit Answers**: Document your queries and results in a file following the provided format.
 
 ## License
 
